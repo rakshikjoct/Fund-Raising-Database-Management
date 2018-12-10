@@ -1,0 +1,23 @@
+C:\Users\kjdeepthi\source\repos\Charity Database Management\Charity Database Management\obj\Debug\Charity Database Management.csprojAssemblyReference.cache
+C:\Users\kjdeepthi\source\repos\Charity Database Management\Charity Database Management\obj\Debug\Charity_Database_Management.Login.resources
+C:\Users\kjdeepthi\source\repos\Charity Database Management\Charity Database Management\obj\Debug\Charity_Database_Management.Properties.Resources.resources
+C:\Users\kjdeepthi\source\repos\Charity Database Management\Charity Database Management\obj\Debug\Charity_Database_Management.student_login.resources
+C:\Users\kjdeepthi\source\repos\Charity Database Management\Charity Database Management\obj\Debug\Charity_Database_Management.Student_signup.resources
+C:\Users\kjdeepthi\source\repos\Charity Database Management\Charity Database Management\obj\Debug\Charity Database Management.csproj.GenerateResource.cache
+C:\Users\kjdeepthi\source\repos\Charity Database Management\Charity Database Management\obj\Debug\Charity Database Management.csproj.CoreCompileInputs.cache
+C:\Users\kjdeepthi\source\repos\Charity Database Management\Charity Database Management\bin\Debug\Database.mdf
+C:\Users\kjdeepthi\source\repos\Charity Database Management\Charity Database Management\bin\Debug\Database_log.ldf
+C:\Users\kjdeepthi\source\repos\Charity Database Management\Charity Database Management\bin\Debug\Charity Database Management.exe.config
+C:\Users\kjdeepthi\source\repos\Charity Database Management\Charity Database Management\bin\Debug\Charity Database Management.exe
+C:\Users\kjdeepthi\source\repos\Charity Database Management\Charity Database Management\bin\Debug\Charity Database Management.pdb
+C:\Users\kjdeepthi\source\repos\Charity Database Management\Charity Database Management\obj\Debug\Charity Database Management.exe
+C:\Users\kjdeepthi\source\repos\Charity Database Management\Charity Database Management\obj\Debug\Charity Database Management.pdb
+C:\Users\kjdeepthi\source\repos\Charity Database Management\Charity Database Management\obj\Debug\Charity_Database_Management.Staff_Signup.resources
+C:\Users\kjdeepthi\source\repos\Charity Database Management\Charity Database Management\obj\Debug\Charity_Database_Management.Staff_Login.resources
+C:\Users\kjdeepthi\source\repos\Charity Database Management\Charity Database Management\obj\Debug\Charity_Database_Management.introduction.resources
+C:\Users\kjdeepthi\source\repos\Charity Database Management\Charity Database Management\obj\Debug\Charity_Database_Management.CausesWeSupprot.resources
+C:\Users\kjdeepthi\source\repos\Charity Database Management\Charity Database Management\obj\Debug\Charity_Database_Management.Donors.resources
+C:\Users\kjdeepthi\source\repos\Charity Database Management\Charity Database Management\obj\Debug\Charity_Database_Management.AboutUs.resources
+C:\Users\kjdeepthi\source\repos\Charity Database Management\Charity Database Management\obj\Debug\Charity_Database_Management.Help.resources
+C:\Users\kjdeepthi\source\repos\Charity Database Management\Charity Database Management\obj\Debug\Charity_Database_Management.MakeaDonation.resources
+C:\Users\kjdeepthi\source\repos\Charity Database Management\Charity Database Management\obj\Debug\Charity_Database_Management.Details.resources
